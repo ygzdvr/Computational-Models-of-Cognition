@@ -24,4 +24,14 @@ You can install the required libraries using the following command:
 
 ```sh
 pip install torch torchvision numpy pillow
+```
 
+##Training the Models
+Run the following command to train the models:
+
+```sh
+python train.py
+```
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
