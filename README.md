@@ -8,7 +8,7 @@ The Memorable Image Generator is a machine learning project that uses a Generati
 - `model.py`: Contains the code for the memorability prediction model and the GAN (generator and discriminator).
 - `train.py`: Contains the code to train the models.
 - `utils.py`: Contains utility functions used throughout the project.
-- `images/`: Directory where the image dataset should be placed.
+- `images/`: Directory where the image dataset is placed.
 
 ## Getting Started
 
